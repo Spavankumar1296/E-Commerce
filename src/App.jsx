@@ -11,7 +11,6 @@ import Login from './Pages/Login'
 import Orders from './Pages/Orders'
 import Navbar from './Components/Navbar/Navbar'
 const App = () => {
-  const []
   return (
     <div className='px-4 sm:px-[5vw] md:px-[7vw] lg:px-[9vw]'>
       <Navbar/>
